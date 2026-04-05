@@ -61,7 +61,7 @@ As Team Lead and Robotics Systems Engineer, my responsibilities include:
 
 *(Placeholder for high-quality video demonstration of the robot navigating a test environment)*
 
-`[Insert Demo Video or GIF here]`
+(https://www.linkedin.com/posts/vijay-anand-kandaswamy_amr-roboticstesting-autonomoussystems-ugcPost-7433791693843415040-YkBL?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFMwRcEBR8uLkKhRxSQFGXns0KJw610LOyU&utm_campaign=copy_link)
 
 ## Future Work
 
